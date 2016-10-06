@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=PT+Sans';
+
 body {
     margin: 0;
     background:
@@ -10,7 +12,7 @@ body {
 }
 
 p, h1, h2, h3, h4, h5, h6 {
-    font-family: PT Sans;
+    font-family: 'PT Sans';
 }
 
 #screen1, #screen2, #screen3 {
@@ -55,7 +57,7 @@ p, h1, h2, h3, h4, h5, h6 {
     float: right;
     text-decoration: none;
     color: #909090;
-    font-family: PT Sans;
+    font-family: 'PT Sans';
     font-weight: bold;
     padding: 1em;
 }
